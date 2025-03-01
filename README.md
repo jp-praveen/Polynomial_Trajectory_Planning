@@ -1,4 +1,4 @@
-# Polynomial Trajectory Planning and Control
+# Minimum Snap and Minimum Jerk Trajectory Planning and Control
 
 This project focuses on trajectory generation, comparison, and control for quadcopters. It involves the development of minimum jerk and minimum snap trajectories, time allocation optimization, and a PD controller (V. Kumar, Robotics: Aerial robotics, in: Coursera, University of Pennsylvania) for trajectory tracking. The project demonstrates the application of differential flatness, polynomial optimization, and control theory in autonomous quadcopter systems.
 
